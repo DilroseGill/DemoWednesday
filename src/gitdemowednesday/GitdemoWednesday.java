@@ -9,6 +9,7 @@ package gitdemowednesday;
  * @author dilro
  * hey kisn oo
  * git learing pulling
+ * fetching tryingto dooo
  */
 public class GitdemoWednesday {
 
@@ -18,6 +19,7 @@ public class GitdemoWednesday {
     public static void main(String[] args) {
         System.out.println("Hey kidn");
         System.out.println("I Can Code");
+        System.out.println("fetching and merging");
         // TODO code application logic here
     }
     
